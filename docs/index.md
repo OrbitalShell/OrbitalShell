@@ -133,7 +133,7 @@ sections:
       Ready to start on the project with us? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:    
-    - title: E-Mail
+    - title: E-Mail @maintener
       icon: fas fa-envelope
       url: mailto:franck.gaspoz@gmail.com
     - title: >+
