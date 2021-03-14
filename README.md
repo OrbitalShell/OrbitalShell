@@ -2,7 +2,7 @@
 
 ![orbsh](assets/orbsh-web.png)
 
-The web site is powered by **linux Alpine** , **ruby** and **Jekyll**. The common and easy way to use this is to user the **bretisher** docker image, that is available at:
+The web site is powered by **linux Alpine** , **ruby** and **Jekyll**. The common and easy way to use this it is to run a **bretisher** docker image, that is available at:
 https://hub.docker.com/r/bretfisher/jekyll-serve
 
 
