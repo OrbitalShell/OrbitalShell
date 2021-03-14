@@ -10,7 +10,7 @@ https://hub.docker.com/r/bretfisher/jekyll-serve
 
 👉 For doing that, you will need **docker desktop** and **docker compose** installed in your OS.
 
-### 1. Get the docker image of Jekyll Web server full stack:
+#### 1. Get the docker image of Jekyll Web server full stack:
 
 ```shell
 docker pull bretfisher/jekyll
