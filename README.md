@@ -16,3 +16,6 @@ https://hub.docker.com/r/bretfisher/jekyll-serve
 docker pull bretfisher/jekyll
 ```
 
+#### 2. Fork this repository on GitHub into you git hub account
+
+
