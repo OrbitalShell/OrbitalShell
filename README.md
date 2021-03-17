@@ -23,6 +23,18 @@ cd MyProjects
 git clone https://github.com/OrbitalShell/OrbitalShell.git
 ```
 
-#### 3. Run a docker container that runs the web site
+#### 3. Run the web site from the docker container
 
+```shell
+docker run -p 8080:4000 -v "[PATH_TO_THE_WEBSITE_REPO]/docs:/site" bretfisher/jekyll-serve
+
+# example :
+# docker run -p 8080:4000 -v "C:/Users/franc/Documents/ORBITAL-SHELL/Orbital-Shell-WebSite/docs:/site" bretfisher/jekyll-serve
+```
+##### you can observe the running container:
+
+```shell
+docker stats
+```
+##### and live edit the web site and further commit to the repository
 
