@@ -16,6 +16,13 @@ https://hub.docker.com/r/bretfisher/jekyll-serve
 docker pull bretfisher/jekyll
 ```
 
-#### 2. Fork this repository on GitHub into you git hub account
+#### 2. Clone the repository
+
+```shell
+cd MyProjects
+git clone https://github.com/OrbitalShell/OrbitalShell.git
+```
+
+#### 3. Run a docker container that runs the web site
 
 
