@@ -29,7 +29,7 @@ git clone https://github.com/OrbitalShell/OrbitalShell.git
 docker run -p 8080:4000 -v "[PATH_TO_THE_WEBSITE_REPO]/docs:/site" bretfisher/jekyll-serve
 
 # example :
-# docker run -p 8080:4000 -v "C:/Users/franc/Documents/ORBITAL-SHELL/Orbital-Shell-WebSite/docs:/site" bretfisher/jekyll-serve
+docker run -p 8080:4000 -v "C:/Users/franc/Documents/ORBITAL-SHELL/Orbital-Shell-WebSite/docs:/site" bretfisher/jekyll-serve
 ```
 
 #### 4. The web site is now available at: http://localhost:8080/OrbitalShell/
