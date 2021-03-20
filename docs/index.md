@@ -5,7 +5,7 @@ permalink: /index.html
 header:
   title: Orbital Shell
   text: >
-    Free open source command line shell coded in C# Net Core. Just
+    Free open source command line shell developed in C# Net Core. Just
      download the tool and start running commands and customizing the sell, interacting with the system, streams and with C# objects !
   action: # action button is optional
     label: Find Out More
@@ -28,19 +28,22 @@ sections:
     background_style: bg-light
     title: Orbital Shell Services
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: POSIX + Object oriented + C# compliant
+        text: This shell fit as much as possible to POSIX recommendations, adding syntax to support objects handling
         icon: fa-gem text-info
-        url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+        url: https://orbitalshell.github.io/OrbitalShell/documentation
+      - title: Ready to Use
+        text: You can use the shell as is, or you can make changes! using scripts and functions or by developing new commands!
         icon: fa-paper-plane
+        url: https://orbitalshell.github.io/OrbitalShell/documentation
       - title: Up to Date
-        text: We update dependencies to keep things fresh.
-        icon: fa-laptop-code
-      - title: Made with Love
-        text: You have to make your websites with love these days!
-        icon: fa-heart
+        text: The team is working in a constant improvement apporach, using **Agile Scrum framework** and **CI/CD**
+        icon: fa-laptop-code text-info
+        url: https://github.com/orgs/OrbitalShell/projects/1
+      - title: Extensible at any time
+        text: New commands are added regularly to the shell throught shell **modules**
+        icon: fa-shipping-fast
+        url: https://github.com/OrbitalShell
     actions:
       - title: See Orbital Shell in action!
         url: '#portfolio'
@@ -121,11 +124,18 @@ sections:
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
           January 2021
-          An Coaching started
+          Coaching started
         text: >-
           We started to gather like minded people and started our stategies
           and future plans to them. As a result , interested people joined us!
-
+      - image: assets/img/portfolio/thumbnails/2.jpg
+        title: >+
+          February 2021
+          The team has grown
+        text: >-
+          There is now **9** members in the team! <br/> Welcome to our new members<br/>
+          Join us too!
+          
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch! Join the project on GitHub!
